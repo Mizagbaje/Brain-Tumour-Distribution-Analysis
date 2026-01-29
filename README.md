@@ -4,13 +4,13 @@ Brain Tumour Distribution Analysis using Power BI, SQL, and Excel — analyzing 
 
 ## Table of Contents
 
-- [Project Overview](Project-overview)
-- [Tools & Technologies](Tools--technologies)
-- [Dataset Overview](Dataset-overview)
-- [Data Preparation](Data-preparation)
-- [Power BI Dashboard](Power-bi-dashboard)
-- [Key Insights](Key-insights)
-- [Recommendation](Recommendation)
+- [Project Overview](#Project-overview)
+- [Tools & Technologies](#Tools--technologies)
+- [Dataset Overview](#Dataset-overview)
+- [Data Preparation](#Data-preparation)
+- [Power BI Dashboard](#Power-bi-dashboard)
+- [Key Insights](#Key-insights)
+- [Recommendations](#Recommendations)
 
 
 ### Project Overview
