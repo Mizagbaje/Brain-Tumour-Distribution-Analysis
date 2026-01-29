@@ -1,6 +1,18 @@
 # Brain-Tumour-Distribution-Analysis
 Brain Tumour Distribution Analysis using Power BI, SQL, and Excel — analyzing tumour patterns, grades, and patient demographics to support healthcare insights.
 
+
+## Table of Contents
+
+- [Project Overview](Project-overview)
+- [Tools & Technologies](Tools--technologies)
+- [Dataset Overview](Dataset-overview)
+- [Data Preparation](Data-preparation)
+- [Power BI Dashboard](Power-bi-dashboard)
+- [Key Insights](Key-insights)
+- [Recommendation](Recommendation)
+
+
 ### Project Overview
 A Power BI healthcare analytics dashboard that visualizes brain tumour patient data, revealing trends in demographics, tumour types, brain regions, and diagnosis patterns over time.
 
